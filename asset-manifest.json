@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bank-of-flat-ion-phase-two/static/css/main.3c7c80c1.css",
+    "main.js": "/Bank-of-flat-ion-phase-two/static/js/main.fe7ebe28.js",
+    "static/js/453.817ebfda.chunk.js": "/Bank-of-flat-ion-phase-two/static/js/453.817ebfda.chunk.js",
+    "index.html": "/Bank-of-flat-ion-phase-two/index.html",
+    "main.3c7c80c1.css.map": "/Bank-of-flat-ion-phase-two/static/css/main.3c7c80c1.css.map",
+    "main.fe7ebe28.js.map": "/Bank-of-flat-ion-phase-two/static/js/main.fe7ebe28.js.map",
+    "453.817ebfda.chunk.js.map": "/Bank-of-flat-ion-phase-two/static/js/453.817ebfda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7c80c1.css",
+    "static/js/main.fe7ebe28.js"
+  ]
+}
